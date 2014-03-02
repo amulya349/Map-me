@@ -1,0 +1,4 @@
+Map-me
+======
+
+Searches for the shops nearby and gives the information about whether shop is currently open or npt
